@@ -98,17 +98,6 @@ button:hover {
     box-shadow: 0 0 10px 3.5px #0b87f5;
 }
 
-.footer {
-    position: absolute;
-    text-align: center;
-    font-size: 20px;
-    color: #FFF;
-    padding: 10px;
-    bottom: 0; 
-}
-
-
-
 @media  screen and (max-width: 490px) {
     .container {
         max-width: 350px;
